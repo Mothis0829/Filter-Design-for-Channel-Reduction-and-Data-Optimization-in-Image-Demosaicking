@@ -1,0 +1,1 @@
+# Filter-Design-for-Channel-Reduction-and-Data-Optimization-in-Image-Demosaicking
