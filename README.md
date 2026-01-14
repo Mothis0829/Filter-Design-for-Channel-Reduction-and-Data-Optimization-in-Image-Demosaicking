@@ -1,10 +1,10 @@
 # Filter-Design-for-Channel-Reduction-and-Data-Optimization-in-Image-Demosaicking
 
-## Dataset preparation
-### Tokyo Tech dataset
+## Dataset Preparation
+### Tokyo Tech Dataset
 Download the data from this link. Move its extracted folder matto dataset/TokyoTech/ and then run the script dataset/TokyoTech/generate_hdf5.py to convert the data to hdf5 format.
 
-### TCPDNet pre-trained models
+### TCPDNet Pre-trained Models
 In this Dropbox link you will find 2 folders:
 
 **CPDNetDataset:** The pre-trained models on CPDNet dataset.
